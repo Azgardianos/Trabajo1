@@ -30,4 +30,5 @@ def main():
         else:
             print("Opción inválida. Por favor, seleccione una opción válida.\n")
 
-if __name__ == "__main__"
+if __name__ == "__main__" : 
+    main()
